@@ -1,0 +1,5 @@
+fastapi
+#Framework para criar APIs modernas e rápidas
+uvicorn
+#Servidor ASGI para rodar a aplicação web
+pydantic
