@@ -86,5 +86,5 @@ uvicorn main:app --reload
 **Rodrigo Souza**  
 Formado em Sistemas de Informação  
 Bootcamp Desenvolvedor Python - XP Educação  
-🔗 [LinkedIn](https://www.linkedin.com/in/SEU_USUARIO)  
-📧 rodrigo@email.com
+🔗 [LinkedIn](https://www.linkedin.com/in/rodrigodesouzasilva  
+📧 rodrigosouzasilva@outlook.com
