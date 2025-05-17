@@ -1,4 +1,4 @@
-✅ VERSÃO FINAL DO README.md
+✅ README.md
 
 # 💸 Controle de Gastos API
 
@@ -73,13 +73,14 @@ Acesse no navegador:
 🧪 Executar Testes Locais
 
 pytest test_gastos.py
-📦 Instalação local (opcional)
 
+##📦 Instalação local (opcional)
 git clone https://github.com/rodrigodesouza7/controle-de-gastos-api.git
 cd controle-de-gastos-api
 pip install -r requirements.txt
 uvicorn main:app --reload
-✅ Boas Práticas Aplicadas
+
+#✅ Boas Práticas Aplicadas
 
 Separação de responsabilidades (main.py, database.py, routers/, schemas/)
 Código limpo e comentado
@@ -88,7 +89,8 @@ Pydantic v2 com validações automáticas
 Swagger customizado (tema escuro)
 Testes automatizados com pytest
 Estrutura pronta para deploy ou extensão futura
-👤 Autor
+
+# 👤 Autor
 
 Rodrigo Souza
 Formado em Sistemas de Informação
