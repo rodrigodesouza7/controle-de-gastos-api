@@ -4,6 +4,10 @@ API desenvolvida para registrar, consultar e analisar gastos pessoais.
 Ideal para fins de estudo, portfólio profissional e pequenas aplicações reais com foco em controle financeiro automatizado.
 
 Construída com FastAPI, estruturada em módulos e com lógica aplicada de validação, categorização e normalização de dados.
+# 💸 Controle de Gastos – API com FastAPI
+
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)]()
 
 🚀 Funcionalidades
 
