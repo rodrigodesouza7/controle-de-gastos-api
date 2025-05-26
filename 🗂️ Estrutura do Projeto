@@ -1,0 +1,13 @@
+controle-de-gastos-api/
+├── main.py                  # Entrada principal da aplicação FastAPI
+├── database.py              # Simulação ou interface de base de dados
+├── gastos.py                # Lógica para gestão de múltiplos gastos
+├── gasto.py                 # Modelo individual de gasto com validações
+├── corrigir_categorias.py   # Script para padronização de categorias
+├── corrigir_dados.py        # Script para limpeza e normalização de dados
+├── test_gastos.py           # Testes automatizados com pytest
+├── gastos.json              # Base de dados simulada em formato JSON
+├── requirements.txt         # Lista de dependências para instalação
+├── pyproject.toml           # Configuração de projeto e metadata
+├── uv.lock                  # Controle de versão de dependências
+├── README.md                # Documentação do projeto
